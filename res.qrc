@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Enter_ui">
+        <file>wallhaven-m3pk3y_1600x900.png</file>
+    </qresource>
+    <qresource prefix="/ob">
+        <file>img/enemy1.png</file>
+        <file>img/enemy2.png</file>
+        <file>img/enemy3.png</file>
+        <file>img/hero.png</file>
+        <file>img/exp.tga</file>
+        <file>img/exit.png</file>
+        <file>img/paly.png</file>
+        <file>img/paly_backimg.jpg</file>
+        <file>img/barrage.png</file>
+    </qresource>
+</RCC>
